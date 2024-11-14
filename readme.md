@@ -2,7 +2,7 @@
 -
    Eu sou um estudante de 17 anos apaixonado por tecnologia com o sonho de me tornar um desenvolvedor Full Stack trabalhando com tecnologias como JavaScript <img height="20" src="https://raw.githubusercontent.com/vitorgomes-r/vitorgomes-r/main/imgs/javascript.png" alt="Javascript logo"/>, ReactJS <img height="20" src="https://raw.githubusercontent.com/vitorgomes-r/vitorgomes-r/main/imgs/react.png" alt="React logo"/> e Ruby <img height="20" src="https://raw.githubusercontent.com/vitorgomes-r/vitorgomes-r/main/imgs/ruby.png" alt="Ruby Logo"/><br/>
    
-   Além disso, eu gosto de resolver problemas e adoro codar alguns projetinhos 🚤😁
+   Além disso, eu gosto de resolver problemas e passo o tempo codando alguns projetinhos 🚤😁
   ___
   
 🔭 Coisas interessantes
